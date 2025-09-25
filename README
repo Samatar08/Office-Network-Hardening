@@ -1,0 +1,17 @@
+# Office-Network-Hardening
+
+Short: Simulated office network design, hardening scripts and monitoring configuration.
+
+## Contents
+- network-diagram.png
+- configs/        # router/switch configs or Packet Tracer files
+- hardening.sh    # server hardening script
+- fail2ban/       # sample fail2ban config
+- network_report.pdf
+
+## Quick run
+1. Load Packet Tracer/GNS3 file in `configs/` or follow steps in `network_report.pdf`.
+2. On Ubuntu server: `sudo bash hardening.sh` (review script before running).
+
+## Notes
+- All configurations are for lab/testing use only.

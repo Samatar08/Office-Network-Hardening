@@ -15,3 +15,17 @@ Short: Simulated office network design, hardening scripts and monitoring configu
 
 ## Notes
 - All configurations are for lab/testing use only.
+
+## 🖼 Network Verification
+
+**Network Topology**
+![Topology](images/topolohy.png)
+
+**VLAN Configuration**
+![VLAN](images/show%20vlan%20br%20output.png)
+
+**Running Configuration**
+![Show Run](images/show%20run%20output.png)
+
+**Connectivity Test (Ping)**
+![Ping Test](images/ping%20test.png)
